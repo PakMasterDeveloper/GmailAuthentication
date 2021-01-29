@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "708789084165",
+    "project_id": "mailauthentication-eedf8",
+    "storage_bucket": "mailauthentication-eedf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708789084165:android:ffd4d5b52dee899c9afc6c",
+        "android_client_info": {
+          "package_name": "com.example.gmailauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708789084165-hcin4u15lbbr25n0pt609o913qjdmeag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gmailauthentication",
+            "certificate_hash": "e06e8db4ee45fb8c68a3bb41e2d09f1ddf3eaafc"
+          }
+        },
+        {
+          "client_id": "708789084165-jhipm7ed5oq4fr1152bg3r6otguqmfgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJOIGoj-_h3UUYFjidbYUMqTydbjiWc7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708789084165-jhipm7ed5oq4fr1152bg3r6otguqmfgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
